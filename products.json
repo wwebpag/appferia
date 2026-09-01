@@ -1,18 +1,5 @@
 [
   {
-    "id": "mtj9qno7",
-    "name": "Campera",
-    "price": "18000",
-    "category": "Camperas",
-    "condicion": "usado",
-    "description": "",
-    "images": [
-      "assets/1788303515479-1000496889.jpg"
-    ],
-    "video": null,
-    "videoLink": null
-  },
-  {
     "id": "mtj9prri",
     "name": "Pantalon",
     "price": "2000",
