@@ -1,18 +1,5 @@
 [
   {
-    "id": "mtj9prri",
-    "name": "Pantalon",
-    "price": "2000",
-    "category": "Pantalones",
-    "condicion": "usado",
-    "description": "",
-    "images": [
-      "assets/1788303474126-1000500339.jpg"
-    ],
-    "video": null,
-    "videoLink": null
-  },
-  {
     "id": "mtj9p19j",
     "name": "Remera",
     "price": "2000",
