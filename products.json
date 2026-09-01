@@ -1,18 +1,5 @@
 [
   {
-    "id": "mtj9rzqg",
-    "name": "Swweter",
-    "price": "2000",
-    "category": "Swweters",
-    "condicion": "usado",
-    "description": "",
-    "images": [
-      "assets/1788303577768-1000496696.jpg"
-    ],
-    "video": null,
-    "videoLink": null
-  },
-  {
     "id": "mtj9qno7",
     "name": "Campera",
     "price": "18000",
