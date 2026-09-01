@@ -1,5 +1,18 @@
 [
   {
+    "id": "mtj9tmjj",
+    "name": "Pantalon",
+    "price": "3000",
+    "category": "Pantalones",
+    "condicion": "usado",
+    "description": "",
+    "images": [
+      "assets/1788303653983-1000501138.jpg"
+    ],
+    "video": null,
+    "videoLink": null
+  },
+  {
     "id": "mtj9rzqg",
     "name": "Swweter",
     "price": "2000",
