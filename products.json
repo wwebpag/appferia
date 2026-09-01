@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "mtj9p19j",
+    "name": "Remera",
+    "price": "2000",
+    "category": "Remeras",
+    "condicion": "usado",
+    "description": "",
+    "images": [
+      "assets/1788303439783-1000500849.png"
+    ],
+    "video": null,
+    "videoLink": null
+  }
+]
