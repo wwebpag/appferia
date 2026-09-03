@@ -6,7 +6,9 @@
     "category": "Jeans",
     "condicion": "nuevo",
     "description": "Hasta el talle 46",
-    "images": [],
+    "images": [
+      "assets/1788439930109-1001157295.jpg"
+    ],
     "video": null,
     "videoLink": null
   }
