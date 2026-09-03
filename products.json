@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "mtlixvg4",
+    "name": "Jeans mom",
+    "price": "$25.000",
+    "category": "Jeans",
+    "condicion": "nuevo",
+    "description": "Hasta el talle 46",
+    "images": [],
+    "video": null,
+    "videoLink": null
+  }
+]
